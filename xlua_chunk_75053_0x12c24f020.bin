@@ -1,0 +1,1810 @@
+hotfix_id_lite_map = {
+    ["A2DGame.Hud.A2DBloodInfoView"] = {
+        ["StartTempTweenPlay"] = {
+            106887
+        }
+    },
+    ["AzurBarNPCBubblesHUD"] = {
+        ["SetDialogueOnPlayerAction"] = {
+            104142
+        }
+    },
+    ["BRZiplineEndPoint"] = {
+        ["OnRayCastInteract"] = {
+            26568
+        }
+    },
+    ["BattlePass.BPPlusShopDataStore"] = {
+        ["IsItemOnSale"] = {
+            109413
+        },
+        ["SetTotalDatas"] = {
+            109411
+        }
+    },
+    ["BattleRoyale.BRGameUIScene"] = {
+        ["CreateBRTrophySystemDefendHUD"] = {
+            9427
+        }
+    },
+    ["BattleRoyale.BRVendingMachine"] = {
+        ["GetRayCastInteractPriority"] = {
+            11149
+        }
+    },
+    ["BattleRoyale.BRZiplineSegment"] = {
+        ["OnEnterRayCastInteract"] = {
+            26689
+        },
+        ["OnRayCastInteract"] = {
+            26690
+        }
+    },
+    ["C4BombRemoteControlBtn"] = {
+        ["Start"] = {
+            69475
+        }
+    },
+    ["CodmShop.ShopScrollPlayItemView"] = {
+        ["SetItemData"] = {
+            117273
+        },
+        ["UpdateDoubleRecharge"] = {
+            117295
+        },
+        ["UpdateRecommendPush"] = {
+            117293
+        }
+    },
+    ["CodmShop.ThemeDrawController"] = {
+        ["AniSwitchToStop"] = {
+            116326
+        }
+    },
+    ["CollectBook.CollectBookHelper"] = {
+        ["CheckThemeFristOpen"] = {
+            128620
+        },
+        ["CheckThemeFristUnlock"] = {
+            128622
+        }
+    },
+    ["CollectBook.CollectBookThemeHotUIController"] = {
+        ["CheckShowOpenPop"] = {
+            128708
+        },
+        ["PlayerVideo"] = {
+            128723
+        }
+    },
+    ["Config.DownloadBeforeLoginHelper"] = {
+        ["StripAudioTask"] = {
+            41807
+        },
+        ["UpdateDownloadList"] = {
+            41808
+        }
+    },
+    ["Friend.FriendBlockTipsController"] = {
+        ["OnOpen"] = {
+            131216
+        }
+    },
+    ["FrontEnd.ArsenalDoorWindowController"] = {
+        ["Init"] = {
+            108992
+        }
+    },
+    ["FrontEnd.DoubleRechargeDataStore"] = {
+        ["IsNeedPCBlock"] = {
+            153037
+        }
+    },
+    ["FrontEnd.EbenInvitationController"] = {
+        ["OnNotifyInfoReq"] = {
+            107842
+        },
+        ["OnShowReward"] = {
+            107846
+        }
+    },
+    ["FrontEnd.FrontEndMapLoader"] = {
+        ["GetLevelScenes"] = {
+            62120
+        }
+    },
+    ["FrontEnd.FrontEndUIScene"] = {
+        ["Init"] = {
+            61377
+        }
+    },
+    ["FrontEnd.LobbyMapTopBarController"] = {
+        ["OnBackClick"] = {
+            76576
+        }
+    },
+    ["GameBase.AudioLogic.PawnSoundEmitter"] = {
+        ["SetPawnInDeadStillState"] = {
+            45400
+        }
+    },
+    ["GameBase.BRDroppedPickUpNormal"] = {
+        ["DropPickUpItemType"] = {
+            17084
+        }
+    },
+    ["GameBase.GameUIScene"] = {
+        ["OnVehicleSeatChange"] = {
+            79983
+        },
+        ["SetRayCastInfoHud"] = {
+            80112
+        }
+    },
+    ["GameBase.JoyStickView"] = {
+        ["UpdateAlpha"] = {
+            69814
+        }
+    },
+    ["GameBase.Loading.LoadingFlowDevicePatchController"] = {
+        ["EnableMetalDisplayLink"] = {
+            85585
+        }
+    },
+    ["GameBase.NZWheeledTank_Recon"] = {
+        ["InitVehicle"] = {
+            82038
+        }
+    },
+    ["GameBase.Pay.PayHelper"] = {
+        ["PCVersionSpecialLogic"] = {
+            74637
+        }
+    },
+    ["GameBase.SwitchFireModeView"] = {
+        ["Init"] = {
+            70403
+        }
+    },
+    ["GameBase.TacticalDomReviveController"] = {
+        ["OnDomBRGroundWarRevive"] = {
+            97812
+        }
+    },
+    ["GameBase.TurnOnWeaponPartView"] = {
+        ["Start"] = {
+            71262
+        }
+    },
+    ["GameBase.Weapon"] = {
+        ["NotifyEffectChangeMaterial"] = {
+            36603
+        }
+    },
+    ["GameEngine.PhysicsVehicle_RescueDrone"] = {
+        ["PlayDomeEffect"] = {
+            81447
+        }
+    },
+    ["GameEngine.SyntheticBodySkillComponent"] = {
+        ["InitAnimCurveData"] = {
+            38632
+        }
+    },
+    ["GameEngine.WeaponAttachment"] = {
+        ["SetAnimatorControler"] = {
+            57993
+        }
+    },
+    ["GameEngine.WeaponPartUtil"] = {
+        ["MuzzlePointIsOnRai"] = {
+            58555
+        }
+    },
+    ["GameEngine.WeaponProjectile_MonkeyBomb"] = {
+        ["InitializeProjParms"] = {
+            59199
+        }
+    },
+    ["GameSettings.SettingsEditWidget"] = {
+        ["Awake"] = {
+            162356
+        }
+    },
+    ["GameUI.BRTeamInfoHUD"] = {
+        ["CheckAircraft"] = {
+            25540
+        }
+    },
+    ["GameUI.Home.HomeMainController"] = {
+        ["CreateShopScrollPlay"] = {
+            77042
+        },
+        ["DelayToSendLuckyBoxInfoToStore"] = {
+            76953
+        }
+    },
+    ["GameUI.LiveOpsEventUtil"] = {
+        ["CheckPlaySwitchEffect"] = {
+            121038
+        },
+        ["LiveOpsGoToView"] = {
+            121037
+        }
+    },
+    ["GameUI.QRCodePopTools"] = {
+        ["GetPCVersionRechargeURL_Part2"] = {
+            151661
+        }
+    },
+    ["GameUI.Report.ChatReportWindowController"] = {
+        ["InitView"] = {
+            155400
+        }
+    },
+    ["GameUI.Room.RoomInviteeItemViewBase"] = {
+        ["UpdateApplayCountDownInfo"] = {
+            157513
+        }
+    },
+    ["GameUI.Room.RoomMapVoteController"] = {
+        ["OnOpen"] = {
+            156552
+        }
+    },
+    ["GameUI.Room.RoomPGCSettingPopupController"] = {
+        ["OnOpen"] = {
+            157730
+        }
+    },
+    ["GameUI.Room.RoomSpvpMatchController"] = {
+        ["Tutorial_OnBrLadderBtnClick"] = {
+            78441
+        }
+    },
+    ["GameUI.Room.RoomSpvpPlaylistSelectorMainController_New"] = {
+        ["OnPlaylistItemClickInner"] = {
+            79348
+        }
+    },
+    ["GameUI.Room.SpvpPlaylistItemCell"] = {
+        ["SetPlaylistItemView"] = {
+            79416
+        }
+    },
+    ["GameUI.Share.ShareImageUtils"] = {
+        ["IsEnableSaveButton"] = {
+            160686
+        }
+    },
+    ["GameUI.UIAnimationEventPlay"] = {
+        ["SetUseLobbyDof"] = {
+            71741
+        }
+    },
+    ["GameUI.UIUtil"] = {
+        ["OnOpenLoadoutRoleImpl"] = {
+            61705
+        },
+        ["OpenLoadoutCharacter"] = {
+            61702
+        }
+    },
+    ["GameUI.UIWindow"] = {
+        ["RestrictConfig"] = {
+            64480
+        }
+    },
+    ["Guar.GuarExchangeItemListController"] = {
+        ["GetRoleSkillItemListData"] = {
+            143707
+        }
+    },
+    ["LimitTicketsShop.LimitTicketsShopMainUIController"] = {
+        ["SetMainTabListController"] = {
+            139008
+        }
+    },
+    ["LiteFinderGameModes"] = {
+        ["GetFinderResult"] = {
+            137687
+        }
+    },
+    ["LiveOps.LiveOpsEventEntranceItem"] = {
+        ["RefreshTagState"] = {
+            121130
+        }
+    },
+    ["LiveOps.LiveOpsPictureController_CA"] = {
+        ["NotifyDataStoreUpdated"] = {
+            122029
+        },
+        ["OnNotifyActvSubscribeSuccess"] = {
+            122020
+        }
+    },
+    ["LiveOps.LiveOpsReserveView_CA"] = {
+        ["UpdateView"] = {
+            122820
+        }
+    },
+    ["LiveOps.LiveOpsThemeDailyTaskController"] = {
+        ["OnActvDailyTaskRefreshRes"] = {
+            124062
+        }
+    },
+    ["LiveOps.NewActvCombMainController"] = {
+        ["OnRefreshBtnLinkRoot"] = {
+            107978
+        }
+    },
+    ["LoadoutRecommend.LoadoutRecommendHelper"] = {
+        ["ForceConvertToBaseId"] = {
+            144567
+        }
+    },
+    ["PCInteractiveHUD"] = {
+        ["ShowInteractiveImpl"] = {
+            98950
+        }
+    },
+    ["PVP.PVPScorePanelItem"] = {
+        ["SetDead"] = {
+            160329
+        }
+    },
+    ["PVS.ViewCellRoot"] = {
+        ["Awake"] = {
+            172844
+        }
+    },
+    ["RayCastInteractHUD"] = {
+        ["OnNotifyPawnIsUsingItem"] = {
+            17459
+        }
+    },
+    ["Recreation.Bar.AzurBarTalkWithNPCHUD"] = {
+        ["OnExitBtnClick"] = {
+            104177
+        }
+    },
+    ["Recreation.Bar.BarNpcMgr"] = {
+        ["IsSpecialNpc"] = {
+            103909
+        }
+    },
+    ["Recreation.Bar.VideoGame.ChartJudgeLineView"] = {
+        ["ClearItem"] = {
+            104996
+        }
+    },
+    ["Recreation.Bar.VideoGame.VideoGameManager"] = {
+        ["EndVideoGame"] = {
+            105119
+        },
+        ["StartVideoGame"] = {
+            105118
+        }
+    }
+}
+
+if not HOTFIX_COMPILE then
+
+    util.auto_id_map()
+    
+end
+
+
+-- date: 07/03/2024 17:01:10
+-- target version: CN21.0_WWL27.0
+CS.GameDefine.m_HotfixNo = " 6703"
+-- ../CN21.0_WWL27.0/#00_0607 
+--util.auto_id_map()
+if CS.GameEngine.DataStoreManager.Instance.VersionConfigDataStore.PlatformConfig.applereview then
+    xlua.hotfix(CS.GameUI.UIUtil, 'OpenLoadoutCharacter', function(self, param)
+    end)
+    util.hotfix_ex(CS.FrontEnd.ArsenalDoorWindowController, 'Init', function(self)
+    self:Init()
+    if self.mView ~= nil then
+            CS.GameUI.UICommonTools.SafeSetActive(self.mView.CharacterArsernalBtn, false)
+    end
+    end)
+end
+-- ../CN21.0_WWL27.0/#01_0618 
+xlua.private_accessible(CS.GameEngine.AssetMetaData)
+local assetlist = 
+{
+	401000363,401000364,401000365,401000366,401000367,439001028,439001029,200002896,200002897,200002929,
+	200002931,200002932,200002933,200002939,200002941,200002942,200002943,200002944,200002946,200002947,
+	289900639,289900641,289900643,289900644,289900645,289900646,289900647,289900648,289900649,289900650,
+	289900651,289900652,289900653,289900654,289900655,289900656,289900657,289900658,289900659,289900660,
+	289900661,289900662,289900663,289900664,289900665,289900666,289900667,289900668,289900669,289900670,
+	289900671,289900672,289900673,710004364,710004365,710004371,710004372,710004373,710004374,710004375,
+	710004376,710004422,710004423,710004424,710004425,710004426,710004427,710004428,710004429,710004430,
+	100000387,100000388,100000389,100000390,100000391,440019054,440019055,451002116,451002117,451002118,
+	451002119,451002120,411200029,411200030,411200031,450000188,450000189,450000190,450000191,450000192,
+	450001273,450001550,450001551,450001552,450001553,450001554,450001555,450001556,450001557,450001558,
+	406001153,406001154,718000142,718000143,718000144,718000145,718000146,718000147,718000148,718000149,
+	100000398,100000399,500001629,500001659,500001662,500001672,500001675,500001676,500001677,500001678,
+	500001679,500001680,500001681,500001682,450001760,450001761,450001762,450001763,450001764,450001765,
+	450001766,450001767
+}
+util.hotfix_ex(CS.FrontEnd.FrontEndUIScene, 'Init', function(self)
+    self:Init()
+    if not CS.GameEngine.LogImpl.Instance.ExceptionQuit then
+		for i=1,#assetlist do
+			--CS.UnityEngine.Debug.LogError(tostring(assetlist[i]))
+			local assetData = CS.GameEngine.AssetManager.Instance:FindMetaData(assetlist[i])
+			if assetData ~= nil then
+				--CS.UnityEngine.Debug.LogError(CS.System.HalfStringUtil.HalfStringToString(assetData.Path))
+				assetData.Path = CS.System.HalfStringUtil.StringToHalfString("")	
+			end
+        end
+    end
+end)
+util.hotfix_ex(CS.FrontEnd.FrontEndMapLoader, 'GetLevelScenes', function(self, name)
+    if not CS.GameEngine.LogImpl.Instance.ExceptionQuit then
+	if name == 'ScenesRoot_GhostHL' then
+		return nil
+	end
+	end
+	return self:GetLevelScenes(name)
+end)
+-- ../CN21.0_WWL27.0/#02_0618 
+util.hotfix_ex(CS.CodmShop.ShopScrollPlayItemView, 'SetItemData', function(self, dataObj)
+    self.isDoubleRecharge = false
+    self.isRecommendPush = false
+    self:SetItemData(dataObj)
+    --CS.GameEngine.Log.PublishLog('[mingkahuang] ShopScrollPlayItemView SetItemData')
+end)
+util.hotfix_ex(CS.CodmShop.ShopScrollPlayItemView, 'UpdateRecommendPush', function(self)
+    self.isUseBlackAndRed = true
+    self:UpdateRecommendPush()
+    --CS.GameEngine.Log.PublishLog('[mingkahuang] ShopScrollPlayItemView UpdateRecommendPush')
+end)
+util.hotfix_ex(CS.CodmShop.ShopScrollPlayItemView, 'UpdateDoubleRecharge', function(self)
+    self.m_LastUpdateTime = 0
+    self:UpdateDoubleRecharge()
+    --CS.GameEngine.Log.PublishLog('[mingkahuang] ShopScrollPlayItemView UpdateDoubleRecharge')
+end)
+-- ../CN21.0_WWL27.0/#03_0621 
+util.hotfix_ex(CS.BattleRoyale.BRZiplineSegment, 'OnEnterRayCastInteract', function(self)
+	local zipLineVolume = self:GetComponent(typeof(CS.BattleRoyale.BRZiplineVolume))
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(zipLineVolume) == false then
+		if CS.GameCommon.LuaUtility.IsNullInCSharp(CS.GameEngine.GamePlay.LocalPVPPlayerPawn) == false then
+			if CS.GameEngine.GamePlay.LocalPVPPlayerPawn.ZiplineComponent ~= nil then
+				CS.GameEngine.GamePlay.LocalPVPPlayerPawn.ZiplineComponent:RayCastInteractEnter(zipLineVolume)
+			end
+		end
+	end
+	self:OnEnterRayCastInteract()
+end)
+-- ../CN21.0_WWL27.0/#04_0618 
+xlua.hotfix(CS.GameUI.UIAnimationEventPlay, 'SetUseLobbyDof', function(self, use)
+    CS.GameEngine.Log.PublishLog("[Hotfix]SetUseLobbyDof Success -- 1")
+    end)
+-- ../CN21.0_WWL27.0/#05_0618 
+util.hotfix_ex(CS.LoadoutRecommend.LoadoutRecommendHelper, 'ForceConvertToBaseId', function(itemId)
+   local itemType = CS.GameBase.ItemConfigHelper.GetItemType(itemId)
+   if itemType == CS.msg.EItemType.EIT_SCORE_STREAK then
+		local skinConf = CS.Config.ScorestreaksSkinConfig.GetData(itemId)
+		if skinConf ~= nil then
+			return skinConf.StreakBaseId
+		else
+			local baseConf = CS.Config.ScorestreaksConfConfig.GetData(itemId)
+			if baseConf ~= nil then
+				return itemId
+			end
+		end
+		return 0
+   end
+   return CS.LoadoutRecommend.LoadoutRecommendHelper.ForceConvertToBaseId(itemId)
+end)
+-- ../CN21.0_WWL27.0/#06_0618 
+util.hotfix_ex(CS.Config.DownloadBeforeLoginHelper, 'UpdateDownloadList', function(fileList, fileSet, downloadBeforeLogin, maxCount)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList(fileList, fileSet, downloadBeforeLogin, maxCount)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 600030020)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 450001243)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 450001244)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 401001977)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 401002258)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 401002257)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 100000278)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 199001048)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 100000295)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 100000400)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 100000377)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByAssetID(fileList, fileSet, 100000378)
+	CS.Config.DownloadBeforeLoginHelper.UpdateDownloadList_ByVideo(fileList, fileSet, 'Dynamic_LuckydrawGF.mp4')
+end)
+-- ../CN21.0_WWL27.0/#07_0627 
+-- jqkjlkang
+-- 【【WWL27.1/CN21.1】【opstime2】【android/ios】【必现】【club】音游上一局最后是那种滑动按钮的，下一局开始时判定线有那个滑动特效】 https://tapd.woa.com/codm/bugtrace/bugs/view?bug_id=1010125091125887555
+util.hotfix_ex(CS.Recreation.Bar.VideoGame.ChartJudgeLineView, 'ClearItem', function(self)
+    if (not CS.GameCommon.LuaUtility.IsNullInCSharp(self.JudgeEffectRoot)) then
+        local cnt = self.JudgeEffectRoot.childCount;
+        if (cnt > 0) then
+            for i = cnt, 1, -1 do
+                local child = self.JudgeEffectRoot:GetChild(i - 1);
+                if (not CS.GameCommon.LuaUtility.IsNullInCSharp(child)) then
+                    local effect = child:GetComponent(typeof(CS.Recreation.Bar.VideoGame.ChartJudgeEffect));
+                    if (not CS.GameCommon.LuaUtility.IsNullInCSharp(effect)) then
+                        effect:Clear();
+                        self:DespawnJudgeEffect(effect);
+                    else
+                        CS.UnityEngine.Object.Destroy(child);
+                    end
+                end
+            end
+        end
+    end
+    self:ClearItem();
+end)
+-- ../CN21.0_WWL27.0/#08_0621 
+if CS.GameDefine.IsWin then
+   util.hotfix_ex(CS.Chat.ChatMainController,'Init',function(self)
+      self:Init()
+      if self.mView and self.mView.transform then
+         local pTrans = self.mView.transform:Find("MenuPanel")
+         if pTrans then
+            local mPanel = pTrans:GetComponent(typeof(CS.UIPanel))
+            if mPanel then
+                mPanel.depth = 666
+            end
+         end
+      end
+   end)
+   util.hotfix_ex(CS.Emoji.EmoticonChatController,'Init',function(self)
+      self:Init()
+      self.m_PanelDepth = 120
+   end)
+end
+util.hotfix_ex(CS.GameUI.Report.ChatReportWindowController,'InitView',function(self,playerSettlementData)
+      self:InitView(playerSettlementData)
+      if self.m_View then
+         self.m_View:UpdatePanelDepth(200)
+         if CS.GameDefine.IsFamilyWest and self.m_View.Root_West then
+            local svTrans = self.m_View.Root_West.transform:Find("Scroll View")
+            if svTrans then
+               local sv = svTrans:GetComponent(typeof(CS.UIScrollView))
+               if sv and sv.panel then
+                  sv.panel.depth = 210
+               end
+            end
+         end
+      end
+end)
+util.hotfix_ex(CS.Friend.FriendBlockTipsController,'OnOpen',function(self)
+      self:OnOpen()
+      if self.mView then
+         self.mView:UpdatePanelDepth(200)
+      end
+end)
+-- ../CN21.0_WWL27.0/#09_0621 
+xlua.hotfix(CS.BattleRoyale.BRVendingMachine, 'GetRayCastInteractPriority', function(self)
+	return 0
+end)
+util.hotfix_ex(CS.GameBase.BRDroppedPickUpNormal, 'DropPickUpItemType', function(self)
+	if self.PickUpType == CS.Network.EPICKUP_TYPE.ePICKUP_TYPE_LOTTERY then
+		return true;
+	end
+	return self:DropPickUpItemType()
+end)
+-- ../CN21.0_WWL27.0/#10_0621 
+util.hotfix_ex(CS.GameUI.BRTeamInfoHUD, 'CheckAircraft', function(self)
+	self:CheckAircraft()	
+	if CS.GameEngine.GamePlay.UseNewHudForGameMode_PC() then
+		local teamNum = self:GetTeamMateNum()
+		if teamNum <= 1 then
+			CS.UnityTool.SafeSetActive(self.ResumeFollowWidget, false)
+		end
+	end
+end)
+-- ../CN21.0_WWL27.0/#11_0621 
+util.hotfix_ex(CS.GameUI.Room.RoomPGCSettingPopupController, 'OnOpen', function(self)
+    self:OnOpen()
+    if self.m_rds.RoomInfoValid == false then
+        self.m_playlistConf = self.m_spvpds:GetPlaylistInfoByPlaylistId(self.m_rds.PlaylistId)
+        self.m_defWeaponType = 0
+        self.m_weaponLimitEnabled = false
+        if self.m_playlistConf == nil then
+            return
+        end
+        local showParamList = self:GetShowingParamList()
+        self.m_weaponLimitEnabled, self.m_defWeaponType, self.m_weaponLimitTitle = self:IsWeaponTypeLimitEnabled(self.m_playlistConf, self.m_defWeaponType, self.m_weaponLimitTitle)
+        self:RefreshView(showParamList)
+        self:SetOwnerOrNot()
+    end
+end)
+-- ../CN21.0_WWL27.0/#12_0624_cn 
+--west=CS.GameDefine.IsFamilyWest
+--cn=CS.GameDefine.IsFamilyCN
+if CS.GameDefine.IsFamilyCN then
+if CS.GameDefine.IsPlayerWin then
+util.hotfix_ex(CS.Home.HomeMainUIController, 'RefreshLadderEntrance', function(self)
+    self:RefreshLadderEntrance()
+    local rds = CS.GameEngine.DataStoreManager.Instance.RankDataStore
+    local sds = CS.GameEngine.DataStoreManager.Instance.SPVPLadderDataStore
+    local si = rds:GetSpvpLadderSeasonInfoBySeasonIndex(sds.SeasonNoWhenLogin)
+    if si ~= nil and self.m_View ~= nil and self.m_View.ladderEntranceL.Length > 1 then
+        local title = 'S' .. tostring(si.SeasonNumber) .. ' 排位赛'
+        CS.GameUI.UICommonTools.SafeSetLabel(self.m_View.ladderEntranceL[0], title)
+        CS.GameUI.UICommonTools.SafeSetLabel(self.m_View.ladderEntranceL[1], title)
+    end
+end)
+util.hotfix_ex(CS.Home.HomeMainUIController, 'RefreshBRReddot', function(self, m)
+    self:RefreshBRReddot(m)
+    CS.GameUI.UICommonTools.SafeSetLabel(self.m_View.brEntranceTagL, CS.LanguageUtility.Translate('LOC_PREFAB_HOMEMAINVIEW_BRNEWMODE'))
+end)
+util.hotfix_ex(CS.Home.HomeMainUIController, 'RefreshMPReddot', function(self, m)
+    self:RefreshMPReddot(m)
+    CS.GameUI.UICommonTools.SafeSetLabel(self.m_View.mpEntranceTagL, CS.LanguageUtility.Translate('LOC_PREFAB_HOMEMAINVIEW_PVPNEWMODE'))
+end)
+util.hotfix_ex(CS.FrontEnd.LobbyMapTopBarController, 'RefreshRootShow', function(self, style)
+    if self.m_NewTopBarUICtrl == nil then
+        self:CheckShowNewTopBar()
+    end
+    self:RefreshRootShow(style)
+end)
+util.hotfix_ex(CS.GameUI.PersonalizedDisplayDataStore, 'IsShowNewLobbyUI', function(self)
+    local ret = self:IsShowNewLobbyUI()
+    if ret == true then
+        CS.PlayerPrefsManager.Instance:SetCurrentPlayerBool('ert_use_new_lobby', true)
+    end
+    if ret == false then
+        local temp = CS.PlayerPrefsManager.Instance:GetCurrentPlayerBool('ert_use_new_lobby', false)
+        if temp == true then
+            return true
+        end
+    end
+    return ret
+end)
+util.hotfix_ex(CS.Lobby.LobbyTopBarUIView, 'SetPlayeInfo', function(self, m_LocalPlayerDS, levelInfo)
+    self:SetPlayeInfo(m_LocalPlayerDS, levelInfo)
+    local fake = self.transform:Find('Top/Container/_NormalContainer/TopLeft/Offest/PlayerInfo/AvatarFrame/Sprite')
+    if fake then
+        fake.gameObject:SetActive(false)
+    end
+end)
+util.hotfix_ex(CS.Home.HomeMainUIController, 'OnBRAssetLoaded', function(self, id, obj, isSucc)
+    self:OnBRAssetLoaded(id, obj, isSucc)
+    CS.TLogReportDataAgent.Instance:TlogNtf('ClickSystemEntrance', self.clickEntrance:GetTLogArgs(CS.TLog.TLogNtfHandler.ClickSystemEntrance.ButtonMainID.BR, 1, 1, 0, 0, 0, 0))
+end)
+util.hotfix_ex(CS.Home.HomeMainUIController, 'OnMultiplayAssetLoaded', function(self, id, obj, isSucc)
+    self:OnMultiplayAssetLoaded(id, obj, isSucc)
+    CS.TLogReportDataAgent.Instance:TlogNtf('ClickSystemEntrance', self.clickEntrance:GetTLogArgs(CS.TLog.TLogNtfHandler.ClickSystemEntrance.ButtonMainID.MP, 1, 1, 0, 0, 0, 0))
+end)
+util.hotfix_ex(CS.Home.HomeMainUIController, 'OnZombieClick', function(self)
+    self:OnZombieClick()
+    CS.TLogReportDataAgent.Instance:TlogNtf('ClickSystemEntrance', self.clickEntrance:GetTLogArgs(CS.TLog.TLogNtfHandler.ClickSystemEntrance.ButtonMainID.PVE, 1, 1, 0, 0, 0, 0))
+end)
+end
+end
+-- ../CN21.0_WWL27.0/#13_0618 
+util.hotfix_ex(CS.BattlePass.BPPlusShopDataStore, 'IsItemOnSale', function(self, in_data)
+    if self.m_StoreSeasons then
+        --CS.GameEngine.Log.PublishLog('[mingkahuang] BPPlusShopDataStore IsItemOnSale DB OK')
+        return self:IsItemOnSale(in_data)
+    else
+        --CS.GameEngine.Log.PublishLog('[mingkahuang] BPPlusShopDataStore IsItemOnSale DB Not OK return ture')
+        return true
+    end
+end)
+-- ../CN21.0_WWL27.0/#14_0624 
+if CS.GameDefine.IsPlayerWin then
+	util.hotfix_ex(CS.GameLogoController, 'GetViewAssetId', function(self)
+		if CS.GameEngine.GamePlay.UseNewHudForGameMode_PC() then
+			return CS.EAssetID(421610101)
+		end
+		return self:GetViewAssetId()	
+	end)
+	util.hotfix_ex(CS.GameBase.MatchGameUIScene, 'CreateGameRoomHUD', function(self)
+		if CS.GameEngine.GamePlay.UseNewHudForGameMode_PC() then
+			if CS.GameCommon.LuaUtility.IsNullInCSharp(self.m_RoomInfoHUD) then
+				self.m_RoomInfoHUD = self:CreateGameHud(typeof(CS.GameRoomInfoHUD), 421610102, 0, CS.UnityEngine.Vector3(0,0,0), CS.GameUI.EGUIAnchor.BottomRight, true, CS.GameUI.EGUILayer.GUI)
+			end
+		end
+		return self:CreateGameRoomHUD()	
+	end)
+	xlua.hotfix(CS.GameBase.BRDroppedPickUpNormal, 'RayCastInteractInDistanceRange', function(self)
+		if CS.GameCommon.LuaUtility.IsNullInCSharp(CS.GameEngine.GamePlay.LocalPawn) then          
+			return false;
+		end
+		local distance = CS.UnityEngine.Vector3.Distance(self.Position, CS.GameEngine.GamePlay.LocalPawn.Position);
+		return distance < 1.5;
+	end)
+	util.hotfix_ex(CS.GameRoomInfoHUD, 'UpdateHUD', function(self)
+		if CS.GameEngine.GamePlay.UseNewHudForGameMode_PC() then
+			local playerMsg = self:GetPlayerMsg()
+			local ip = self:GetRoomIp()
+			local roomMsg = self:GetRoomMsg(self:GetRoomInfo(ip))
+			local msg = playerMsg.."-"..roomMsg
+			CS.GameUI.UICommonTools.SafeSetLabel(self.IDPlayer_Label, msg)
+			CS.GameUI.UICommonTools.SafeSetLabel(self.IDRoom_Label, "")
+		else
+			self:UpdateHUD()
+		end
+	end)
+end
+-- ../CN21.0_WWL27.0/#15_0618_west 
+--west=CS.GameDefine.IsFamilyWest
+--cn=CS.GameDefine.IsFamilyCN
+if CS.GameDefine.IsFamilyWest then
+if CS.GameDefine.IsFamilyWest then
+   util.hotfix_ex(CS.LiveOps.LiveOpsEventEntranceItem,'RefreshTagState',function(self)
+      self:RefreshTagState()
+      local redTrans = self.WestNameObj.transform:Find("Arrow/RedObj")
+      local isNew,showRed = self:GetTagInfo()
+      CS.GameUI.UICommonTools.SafeSetActive(redTrans, showRed)
+   end)
+end
+end
+-- ../CN21.0_WWL27.0/#17_0624 
+-- jqkjlkang
+-- 【【WWL27.1/CN21.1】【opstime2】【android/ios】【必现】【club】DJ台位置NPC无法触发对话按钮】 https://tapd.woa.com/codm/bugtrace/bugs/view?bug_id=1010125091125984543
+xlua.hotfix(CS.Recreation.Bar.BarNpcMgr, 'IsSpecialNpc', function(self, id)
+    if (CS.Recreation.Bar.BarGameInfo.NeedCheckBigEvent) then
+        if (id == self.m_NpcSohpiaId or id == self.m_NpcTemplarId) then
+            return true;
+        end
+    end
+    return false;
+end)
+-- ../CN21.0_WWL27.0/#19_0621 
+--krisstian
+--
+xlua.private_accessible(CS.GameEngine.Log)
+util.hotfix_ex(CS.A2DGame.Hud.A2DBloodInfoView, 'StartTempTweenPlay', function (self,toValue, deltaValue, fromValue, delay, duration, Tween)
+    local temp = CS.GameEngine.Log.m_Log
+    CS.GameEngine.Log.m_Log = nil
+    self:StartTempTweenPlay(toValue, deltaValue, fromValue, delay, duration, Tween)
+    CS.GameEngine.Log.m_Log = temp
+end)
+-- ../CN21.0_WWL27.0/#20_0627 
+-- jqkjlkang
+-- 【【WWL27.1/CN21.1】【opstime2】【android/ios】【必现】【club】club会刷非常多的喷火音效和喷气音效，这个很占通道数，导致有一些落点音效出不来】 https://tapd.woa.com/codm/bugtrace/bugs/view?bug_id=1010125091126005723
+local mStageMgr = nil;
+local function GetDJStageMgr()
+	if (CS.GameCommon.LuaUtility.IsNullInCSharp(mStageMgr)) then
+		local stageObj = CS.UnityEngine.GameObject.Find("LDRoot/stage/StageSpotlightMgr");
+        if (not CS.GameCommon.LuaUtility.IsNullInCSharp(stageObj)) then
+            mStageMgr = stageObj:GetComponent(typeof(CS.StageSpotlightMgr));
+        end
+	end
+	return mStageMgr;
+end
+local function EnableDJStage()
+	local stageMgr = GetDJStageMgr();
+	if (not CS.GameCommon.LuaUtility.IsNullInCSharp(stageMgr)) then
+		stageMgr.enabled = true;
+	end
+end
+local function DisableDJStage()
+	local stageMgr = GetDJStageMgr();
+	if (not CS.GameCommon.LuaUtility.IsNullInCSharp(stageMgr)) then
+		stageMgr.enabled = false;
+	end
+end
+util.hotfix_ex(CS.Recreation.Bar.VideoGame.VideoGameManager, 'StartVideoGame', function(self)
+    self:StartVideoGame();
+    EnableDJStage();
+end)
+util.hotfix_ex(CS.Recreation.Bar.VideoGame.VideoGameManager, 'EndVideoGame', function(self)
+    self:EndVideoGame();
+    DisableDJStage();
+end)
+-- ../CN21.0_WWL27.0/#21_0621 
+BackButtonEnable=true
+xlua.private_accessible(CS.FrontEnd.EbenInvitationController)
+util.hotfix_ex(CS.FrontEnd.EbenInvitationController, 'OnNotifyInfoReq', function (self,Msg)
+    BackButtonEnable=false
+    self:OnNotifyInfoReq(Msg)
+end)
+util.hotfix_ex(CS.FrontEnd.EbenInvitationController, 'OnShowReward', function (self)
+    BackButtonEnable=true
+    self:OnShowReward()
+end)
+util.hotfix_ex(CS.FrontEnd.LobbyMapTopBarController, 'OnBackClick', function (self)
+    if not BackButtonEnable then
+		return
+	else
+		self:OnBackClick()
+	end
+end)
+-- ../CN21.0_WWL27.0/#22_0621 
+util.hotfix_ex(CS.BattleRoyale.BRGameUIScene, 'CreateBRTrophySystemDefendHUD', function(self)
+	self:CreateBRTrophySystemDefendHUD()	
+	if CS.GameEngine.GamePlay.UseNewHudForGameMode_PC() then
+		self:SetRayCastInfoHud(false)
+	end
+end)
+util.hotfix_ex(CS.RayCastInteractHUD, 'OnNotifyPawnIsUsingItem', function(self, msg)
+	if CS.GameEngine.GamePlay.UseRayCastInteract then
+		if msg ~= nil then
+			if msg.ParamLength >= 1 then
+				local activeRoot = msg.Params[0] > 0
+				if msg.ParamLength >= 2 then
+					local isSkill = msg.Params[1] == 2
+					if isSkill then
+						local param = CS.PCInteractiveHUDParam()
+						param.IsShow = true
+						param.ShouldInnerProgress = true
+						param.ProcressBarTips = CS.LanguageUtility.Translate("LOC_BRGAME_RESCUE")
+						param.InnerProgressDuration = msg.Params[0];
+						CS.GameEngine.EventManager.Instance:SendUIEvent(1095008, param);
+						return
+					end
+				end
+			end
+		end
+	end
+	return self:OnNotifyPawnIsUsingItem(msg)	
+end)
+util.hotfix_ex(CS.PCInteractiveHUD, 'ShowInteractiveImpl', function(self, msg)
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(self.KeyCodeLabel) == false then
+		if CS.GameCommon.LuaUtility.IsNullInCSharp(self.KeyCodeLabel.transform.parent) == false then
+			local haskey = msg.PCKeyEvent ~= CS.GameEngine.InputKeyEvent.None
+			CS.UnityTool.SafeSetActive(self.KeyCodeLabel.transform.parent.gameObject, haskey);
+		end
+	end
+	self:ShowInteractiveImpl(msg)	
+end)
+-- ../CN21.0_WWL27.0/#24_0619 
+util.hotfix_ex(CS.Guar.GuarExchangeItemListController, 'GetRoleSkillItemListData', function(self)
+	self:GetRoleSkillItemListData()
+	for i = self.m_ItemDataList.Count - 1, 0, -1 do
+		if self.m_ItemDataList[i].ItemId == 150008006 or self.m_ItemDataList[i].ItemId == 150008007 then
+			self.m_ItemDataList:RemoveAt(i)
+		end
+	end
+end)
+-- ../CN21.0_WWL27.0/#26_0621 
+xlua.private_accessible(CS.BattleRoyale.BRZiplineHUD)
+xlua.private_accessible(CS.BattleRoyale.BRZiplineMgr)
+xlua.hotfix(CS.BattleRoyale.BRZiplineSegment, 'OnRayCastInteract', function(self)
+	CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 1")
+	local localPawn = CS.GameEngine.GamePlay.LocalPVPPlayerPawn
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(localPawn) == false then
+		if localPawn.ZiplineComponent ~= nil then
+			CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 2")
+			if localPawn.ZiplineComponent.IsUsing then
+				CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract -1")
+				localPawn.ZiplineComponent:ExitZipLine()
+				return true;
+			end
+			if localPawn.ZiplineComponent.IsCanUseZipline then
+				CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 3")
+				if CS.GameCommon.LuaUtility.IsNullInCSharp(CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD) == false then
+						CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 3.4")
+						if CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD:IsNeedSwitchToMelee(localPawn) then
+							CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 4")
+							if CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD.IsInBRGame then
+													CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 5")
+								CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD:BR_SwitchToMelee()
+								local uiScene = CS.GameEngine.GamePlay.UIScene
+								if uiScene ~= nil then
+									uiScene:SetTimer(1.0, false, function()
+										CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 6")
+										local pawn = CS.GameEngine.GamePlay.LocalPVPPlayerPawn
+										if CS.GameCommon.LuaUtility.IsNullInCSharp(pawn) == false then
+											local useZipLine = pawn.ZiplineComponent:UesZipline()
+											if useZipLine then
+												CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract quitTips 6")
+												local quitTips = CS.LanguageUtility.Translate("LOC_BRGAME_CONFIRMWIN_QUIT")
+												CS.GameEngine.EventManager.Instance:SendUIEvent(1096504, true, quitTips)
+											end
+										end
+									end)
+								end
+							else
+												CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 7")
+								if CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD:MP_TrySwithWeapon(localPawn) then
+														CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 8")
+									local uiScene = CS.GameEngine.GamePlay.UIScene
+									if uiScene ~= nil then
+										uiScene:SetTimer(1.0, false, function()
+																CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 9")
+											local pawn = CS.GameEngine.GamePlay.LocalPVPPlayerPawn
+											if CS.GameCommon.LuaUtility.IsNullInCSharp(pawn) == false then
+												local useZipLine = pawn.ZiplineComponent:UesZipline()
+												if useZipLine then
+													CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract quitTips 9")
+													local quitTips = CS.LanguageUtility.Translate("LOC_BRGAME_CONFIRMWIN_QUIT")
+													CS.GameEngine.EventManager.Instance:SendUIEvent(1096504, true, quitTips)
+												end
+											end
+										end)
+									end
+								end
+							end
+						else			
+							CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract 10")
+							local useZipLine = localPawn.ZiplineComponent:UesZipline()
+							if useZipLine then
+								CS.GameEngine.Log.PublishLog("[BRZiplineSegment] OnRayCastInteract quitTips 10")
+								local quitTips = CS.LanguageUtility.Translate("LOC_BRGAME_CONFIRMWIN_QUIT")
+								CS.GameEngine.EventManager.Instance:SendUIEvent(1096504, true, quitTips)
+							end
+						end
+				end
+			end
+		end
+	end
+	return false;
+end)
+xlua.hotfix(CS.BRZiplineEndPoint, 'OnRayCastInteract', function(self)
+	CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 1")
+	local localPawn = CS.GameEngine.GamePlay.LocalPVPPlayerPawn
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(localPawn) == false then
+		if localPawn.ZiplineComponent ~= nil then
+			CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 2")
+			if localPawn.ZiplineComponent.IsUsing then
+				CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract -1")
+				localPawn.ZiplineComponent:ExitZipLine()
+				return true;
+			end
+			if localPawn.ZiplineComponent.IsCanUseZipline then
+				CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 3")
+				if CS.GameCommon.LuaUtility.IsNullInCSharp(CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD) == false then
+						CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 3.4")
+						if CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD:IsNeedSwitchToMelee(localPawn) then
+							CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 4")
+							if CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD.IsInBRGame then
+								CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 5")
+								CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD:BR_SwitchToMelee()
+								local uiScene = CS.GameEngine.GamePlay.UIScene
+								if uiScene ~= nil then
+									uiScene:SetTimer(1.0, false, function()
+										CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 6")
+										local pawn = CS.GameEngine.GamePlay.LocalPVPPlayerPawn
+										if CS.GameCommon.LuaUtility.IsNullInCSharp(pawn) == false then
+											local useZipLine = pawn.ZiplineComponent:UesZipline()
+											if useZipLine then
+												CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract quitTips 6")
+												local quitTips = CS.LanguageUtility.Translate("LOC_BRGAME_CONFIRMWIN_QUIT")
+												CS.GameEngine.EventManager.Instance:SendUIEvent(1096504, true, quitTips)
+											end
+										end
+									end)
+								end
+							else
+												CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 7")
+								if CS.GameEngine.GamePlay.ZiplineMgr.m_BRZiplineHUD:MP_TrySwithWeapon(localPawn) then
+														CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 8")
+									local uiScene = CS.GameEngine.GamePlay.UIScene
+									if uiScene ~= nil then
+										uiScene:SetTimer(1.0, false, function()
+																CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 9")
+											local pawn = CS.GameEngine.GamePlay.LocalPVPPlayerPawn
+											if CS.GameCommon.LuaUtility.IsNullInCSharp(pawn) == false then
+												local useZipLine = pawn.ZiplineComponent:UesZipline()
+												if useZipLine then
+													CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract quitTips 9")
+													local quitTips = CS.LanguageUtility.Translate("LOC_BRGAME_CONFIRMWIN_QUIT")
+													CS.GameEngine.EventManager.Instance:SendUIEvent(1096504, true, quitTips)
+												end
+											end
+										end)
+									end
+								end
+							end
+						else			
+							CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract 10")
+							local useZipLine = localPawn.ZiplineComponent:UesZipline()
+							if useZipLine then
+								CS.GameEngine.Log.PublishLog("[BRZiplineEndPoint] OnRayCastInteract quitTips 10")
+								local quitTips = CS.LanguageUtility.Translate("LOC_BRGAME_CONFIRMWIN_QUIT")
+								CS.GameEngine.EventManager.Instance:SendUIEvent(1096504, true, quitTips)
+							end
+						end
+				end
+			end
+		end
+	end
+	return false;
+end)
+-- ../CN21.0_WWL27.0/#27_0626 
+util.hotfix_ex(CS.LiveOps.LiveOpsThemeDailyTaskController,'OnActvDailyTaskRefreshRes',function(self,eventMsg)
+      self:UpdateTasks()
+      if self.m_TaskDatas then
+         self:OnActvDailyTaskRefreshRes(eventMsg)
+      end
+end)
+util.hotfix_ex(CS.GameUI.LiveOpsEventUtil,'LiveOpsGoToView',function(self,goPos,secondTab,thirdTab ,url,bEvent ,task)
+   if goPos <= 0 then
+      return
+   end
+   if not CS.GameEngine.DataStoreManager.Instance.RoomDataStore.RoomInfoValid then
+      if goPos == 3 then --Mp_Room
+         if secondTab == 1 or secondTab == 3 then
+            local playListId = thirdTab
+            local chooseTypeRef = -1
+            local playlistListRef = CS.System.Collections.Generic.List(CS.System.UInt32)()
+            local mapIdsRef = CS.System.Collections.Generic.List(CS.System.UInt32)()
+            local bValid = false
+            local chooseType = 0
+            local playlistList
+            local mapIds
+            local serviceModule = CS.msg.EMatchServiceModule.kMatchMaking
+            if thirdTab == 0 then
+               if secondTab == 1 then
+                  bValid,chooseType,playlistList,mapIds = CS.GameUI.Room.RoomDataPersistent.Instance:GetLastGamePlaylistInfo_SpvpMatch(chooseTypeRef,playlistListRef,mapIdsRef)
+               else
+                  bValid,playlistList,mapIds = CS.GameUI.Room.RoomDataPersistent.Instance:GetLastChoosePlaylistInfo_SpvpPrivate(playlistListRef,mapIdsRef)
+                  serviceModule = CS.msg.EMatchServiceModule.KRoomCreate
+               end
+               if playlistList and playlistList.Count > 0 then
+                  playListId = playlistList[0]
+               end
+               if  not bValid then
+                bValid,playListId,mapIds = CS.GameEngine.DataStoreManager.Instance.SpvpDataStore:GetDefaultSpvpInfo(serviceModule,playListId,mapIdsRef)
+               end
+            end
+            local lpDs = CS.GameEngine.DataStoreManager.Instance.LocalPlayerDataStore
+            local playlistState = CS.GameEngine.DataStoreManager.Instance.SpvpDataStore:IsPlayListInfoValid(serviceModule,playListId,
+                                              0,lpDs.LevelInfo, lpDs.LadderRank)
+            if playlistState == CS.EPlaylistState.EOpenButLevelLimit  then
+                CS.GameUI.UICommonTools.SafeShowCommonTips(CS.LanguageUtility.Translate('LOC_HOMEMULTICONTROLLER_SPVPMATCHLEVELLIMIT'))
+               return
+            elseif playlistState == CS.EPlaylistState.EExceedTimeLimit or playlistState == CS.EPlaylistState.ENotOpen then
+               CS.GameUI.UICommonTools.SafeShowCommonTips(CS.LanguageUtility.Translate('LOC_HOMEMULTICONTROLLER_SPVPMATCHNOTINOPENTIME'))
+               return
+            elseif playlistState ~= CS.EPlaylistState.EOpen then
+               return
+            end
+         elseif secondTab == 2 then
+            local isMPAvailable,unlockLv = CS.Config.LevelUnlockConfigConfig.IsSystemUnlock(CS.msg.LevelUnlockSystem.LUS_Ladder)
+            if not isMPAvailable then
+               local tipsStr = CS.System.String.Format(CS.LanguageUtility.Translate('LOC_PREFAB_UNLOCK_LADDER_AT'), tostring(unlockLv))
+               CS.GameUI.UICommonTools.SafeShowCommonTips(tipsStr)
+               return
+            end
+         end
+      end
+   end
+   self:LiveOpsGoToView(goPos,secondTab,thirdTab ,url,bEvent ,task)
+end)
+util.hotfix_ex(CS.GameUI.LiveOpsEventUtil,'CheckPlaySwitchEffect',function(self,switchType)
+   if switchType == CS.GameUI.UIUtilSwitchType.TGAH5Url then
+      return false
+   end
+   self:CheckPlaySwitchEffect(switchType)
+end)
+-- ../CN21.0_WWL27.0/#28_0626 
+util.hotfix_ex(CS.LiteFinderGameModes, 'GetFinderResult', function(self, p)
+   local ret = self:GetFinderResult(p)
+   if p == 24577 then
+      ret.assetIDS:Add(720030140)
+      ret.assetIDS:Add(720030141)
+      ret.assetIDS:Add(720030142)
+      ret.assetIDS:Add(720030143)
+      ret.assetIDS:Add(720030144)
+   end
+   return ret
+end)
+-- ../CN21.0_WWL27.0/#29_0621 
+util.hotfix_ex(CS.GameBase.Pay.PayHelper, 'PCVersionSpecialLogic', function(productId, loc_tips)
+    local check = CS.GameBase.Pay.PayHelper.IS_PC_VERSION_RECHARGE_SHOW_QRCODE
+    if check and CS.GameEngine.DataStoreManager.Instance.QRCodeDataStore:IsNeedQRCode(productId) then
+        CS.GameUI.QRCodePopTools.Instance:CheckToPopQRCode(productId)
+        CS.GameEngine.Log.PublishLog('[mingkahuang] PCVersionSpecialLogic CheckToPopQRCode')
+    else
+        CS.GameBase.Pay.PayHelper.PCVersionSpecialLogic(productId, loc_tips)
+        CS.GameEngine.Log.PublishLog('[mingkahuang] PCVersionSpecialLogic old logic')
+    end
+end)
+util.hotfix_ex(CS.GameUI.QRCodePopTools, 'GetPCVersionRechargeURL_Part2', function(self, ProductID)
+    CS.GameEngine.Log.PublishLog('[mingkahuang] GetPCVersionRechargeURL_Part2 {0}', ProductID)
+    if ProductID then
+        return self:GetStrAppid()
+    end
+    return self:GetPCVersionRechargeURL_Part2(ProductID)
+end)
+-- ../CN21.0_WWL27.0/#30_0621_cn 
+--west=CS.GameDefine.IsFamilyWest
+--cn=CS.GameDefine.IsFamilyCN
+if CS.GameDefine.IsFamilyCN then
+xlua.hotfix(CS.SubaoGameMaster, 'Init', function()
+	CS.GameEngine.Log.PublishLog("SubaoGameMaster PilyHotfix")
+	if CS.GameDefine.IsMobileAndroid and CS.GameDefine.IsFamilyCN then		
+		CS.SubaoGameMaster_Android.Init();
+	end
+end)
+end
+-- ../CN21.0_WWL27.0/#31_0628 
+-- local initLen = 0;
+-- local loadBankList = {}
+-- local highResAudio = false
+-- local bankIndex = 0
+-- local listCount = 15;
+-- for i = 1, listCount do
+--     loadBankList[i] = ""
+-- end
+-- xlua.private_accessible(CS.GameBase.BuglySceneDataReporter)
+-- local RecordBankFunc = function(bankname, post)
+--     loadBankList[bankIndex + 1] = CS.System.String.Format("{0}_{1}", bankname, post)
+--     bankIndex = (bankIndex + 1) % listCount;
+--     if CS.LitePackageWrapper.Instance ~= nil then
+--         highResAudio = CS.LitePackageWrapper.Instance:IsAudioModuleReady("key_HighRes")
+--     end
+--     if CS.GameBase.BuglySceneDataReporter.Instance ~= nil then
+--         local str = CS.System.String.Format("{0}|{1}", initLen, highResAudio)
+--         for i = 1, listCount do
+--             str = str .. CS.System.String.Format('|{0}', loadBankList[(bankIndex + i) % listCount])
+--         end
+--         CS.GameBase.BuglySceneDataReporter.Instance:UpdateSceneData("Debug", str)
+--     end
+-- end
+util.hotfix_ex(CS.GameEngine.WeaponProjectile_MonkeyBomb, 'InitializeProjParms', function(self, InitLocation, InitVelocity, data, weaponID, skinID, SpawnOwnerID, SpawnProjectileID)
+    self:InitializeProjParms(InitLocation, InitVelocity, data, weaponID, skinID, SpawnOwnerID, SpawnProjectileID)
+    self.m_StopSound_BR = 0
+    self.m_StartSound_BR = 0
+    self.m_StopSound = 0
+    self.m_StartSound = 0
+    self.m_StopSound_BR_Enemy = 0
+    self.m_StartSound_BR_Enemy = 0
+    self.m_StopSound_Enemy = 0
+    self.m_StartSound_Enemy = 0
+end)
+-- ../CN21.0_WWL27.0/#32_0621 
+--------------------------------------------------------------------------------
+-- #32 SyntheticBodySkillComponent配置资源加载异常
+--------------------------------------------------------------------------------
+xlua.hotfix(CS.GameEngine.SyntheticBodySkillComponent, 'InitAnimCurveData', function(self)
+	local asset = CS.GameEngine.GamePlay.MatchGame:GetAnimCurveDataAsset();
+	if (CS.GameCommon.LuaUtility.IsNullInCSharp(asset) == true) then
+		CS.GameEngine.Log.PublishLog("[Hotfix32](SyntheticBodySkillComponent) asset is load failed.");
+		return;
+	end
+	self.CrackStartAnimCurve = asset:GetAnimCurve("CrackStartAnimCurve");
+	self.RushPostRockAnimCurve = asset:GetAnimCurve("RushPostRockAnimCurve");
+	--CS.GameEngine.Log.PublishLog("[Hotfix32](SyntheticBodySkillComponent) InitAnimCurveData end.");
+end);
+-- ../CN21.0_WWL27.0/#33_0624 
+util.hotfix_ex(CS.LiveOps.LiveOpsReserveView_CA,'UpdateView',function(self,activity,useOutSideBg)
+      self:UpdateView(activity,useOutSideBg)
+      if self.widgetContent then
+            local btnRoot = self.widgetContent.transform:Find("Container(Btn)")
+            if not btnRoot then
+                  return
+            end
+            if self.labelTimeDesc then
+                  self.labelTimeDesc.transform.parent = btnRoot
+                  self.labelTimeDesc.transform.localScale = CS.UnityEngine.Vector3(1,1,1)
+                  self.labelTimeDesc.transform.localPosition = CS.UnityEngine.Vector3(419,39.8, 0)
+            end
+            if self.goSubscribeTag then
+                  self.goSubscribeTag.transform.parent = btnRoot
+                  self.goSubscribeTag.transform.localScale = CS.UnityEngine.Vector3(1,1,1)
+                  self.goSubscribeTag.transform.localPosition = CS.UnityEngine.Vector3(418.7,58.8, 0)
+            end
+      end
+end)
+if CS.LanguageManager.CurrentELanguageCode == CS.msg.ELanguageCode.en_US then
+      local key = CS.System.HalfStringUtil.StringToHalfString('LOC_Name_TemporaryItem_460010216')
+      CS.Language.LanguageConfigMgr.AddTranslate(key, 'Limited Time Ticket')
+end
+-- ../CN21.0_WWL27.0/#35_0624 
+xlua.hotfix(CS.GameBase.Loading.LoadingFlowDevicePatchController, 'EnableMetalDisplayLink', function()
+end)
+-- ../CN21.0_WWL27.0/#37_0625 
+util.hotfix_ex(CS.GameUI.Room.RoomMapVoteController, 'OnOpen', function(self)
+    self:OnOpen()
+    CS.GameEngine.EventManager.Instance:SendUIEvent(1090798)
+end)
+-- ../CN21.0_WWL27.0/#38_0625 
+xlua.hotfix(CS.GameBase.Weapon, 'NotifyEffectChangeMaterial', function(self)
+    if self.m_OpticsAvatarChangeComponent ~= nil then
+        self.m_OpticsAvatarChangeComponent:NotifyEffectChangeMaterial()
+    end
+end)
+-- ../CN21.0_WWL27.0/#39_0625 
+if CS.GameDefine.IsPlayerWin then
+util.hotfix_ex(CS.Home.HomeMainUIController, 'OnOpen', function(self)
+    self:OnOpen()
+    CS.GameEngine.SystemSetting.Instance.Enable180FrameRate = CS.PlayerPrefsManager.Instance:GetCurrentPlayerBool('Enable180FrameRate', false);
+    CS.UnityEngine.Debug.Log("!!!Enable180FrameRate: " .. tostring(CS.GameEngine.SystemSetting.Instance.Enable180FrameRate))
+end)
+end
+-- ../CN21.0_WWL27.0/#41_0627 
+xlua.hotfix(CS.GameUI.Room.RoomInviteeItemViewBase, 'UpdateApplayCountDownInfo', function(self)
+    local countDownTime = self:GetApplyCountDownTime()
+    if countDownTime == -1 then
+        if self.RoomDS:IsMpLadderRoom() and (not self:IsReachRoomRankLevel()) and (not self.m_NoRankRestrictionEnable) then
+            CS.GameUI.UICommonTools.SafeSetActive(self.ApplyButton, false)
+        else
+            CS.GameUI.UICommonTools.SafeSetActive(self.ApplyButton, true)
+        end
+    else
+        CS.GameUI.UICommonTools.SafeSetActive(self.ApplyCountDownRoot, true)
+        self:StartApplyCountDown()
+    end
+end)
+-- ../CN21.0_WWL27.0/#42_0625 
+-- if CS.GameDefine.IsIMSDKGarenaSA then
+--     local controllerList = {}
+--     local controllerIndex = 0
+--     local listCount = 2
+--     for i = 1, listCount do
+--         controllerList[i] = ""
+--     end
+--     xlua.private_accessible(CS.GameBase.BuglySceneDataReporter)
+--     local RecordControllerFunc = function(bankname)
+--         controllerList[controllerIndex + 1] = bankname
+--         controllerIndex = (controllerIndex + 1) % listCount;    
+--         if controllerIndex == 0 and CS.GameBase.BuglySceneDataReporter.Instance ~= nil then
+--             local str = ""
+--             for i = 1, listCount do
+--                 str = str .. CS.System.String.Format('|{0}', controllerList[i])
+--             end
+--             CS.GameBase.BuglySceneDataReporter.Instance:UpdateSceneData("Ctrl", str)
+--         end
+--     end
+--     util.hotfix_ex(CS.GameEngine.PlayableController, 'GetEffectController', function(self, controller)
+--         if CS.GameCommon.LuaUtility.IsNullInCSharp(controller) then
+--             RecordControllerFunc('null')
+--         else
+--             RecordControllerFunc(controller.name)
+--         end
+--         return self:GetEffectController(controller)
+--     end)
+-- end
+-- ../CN21.0_WWL27.0/#43_0626 
+if CS.GameDefine.IsPlayerWin then
+	--bug=126217428 【WWL27.1/CN21.1】【国服预发布】【PC包】【必现】MP-模式中使用连杀道具盾牌炮塔退出之后会导致连杀得分显示条UI丢失
+	util.hotfix_ex(CS.GameBase.SentryGunPawn,'OnControlledByPlayer', function(self, inControllerID)
+		CS.GameEngine.Log.PublishLog('OnControlledByPlayer inControllerID:{0} ', inControllerID)	
+		if inControllerID == 0 and self.ControllerID == CS.GameEngine.GamePlay.LocalOriginalPlayerID  then
+			self:RemoveGameHudStateByGameMode()
+		end
+		self:OnControlledByPlayer(inControllerID)
+	end)
+	--bug=126314922 【WWL27.1/CN21.1】【国服正式服】【PC包】【必现】MP-模式中玩家使用连杀道具盾牌炮塔时点击右键瞄准后不再显示提示退出K按钮，且点击K按钮也无法退出使用状态
+	xlua.hotfix(CS.GameBase.StreakControlHUD_PC,'OnResetPriority', function(self, inType)
+		CS.GameEngine.Log.PublishLog('StreakControlHUD_PC OnResetPriority:{0}', inType)		
+		--if self.KeyTipIdx >= 0 then
+			--local tType = CS.PVP.InteractiveInGameManager.Instance:GetCurrentShowType() 
+			---CS.GameEngine.Log.PublishLog('StreakControlHUD_PC tType:{0}', tType)		
+			--if inType == CS.PVP.InteractiveType.None and tType ~= CS.PVP.InteractiveType.None 
+			  -- and CS.GameEngine.GamePlay.LocalPawn ~= nil and CS.GameEngine.GamePlay.LocalPawn.IsAiming()then 
+			   --return 
+			--end
+		--end
+		CS.GameEngine.Log.PublishLog('StreakControlHUD_PC ===:{0}', inType)	
+		if inType == 50 then 
+			CS.GameEngine.Log.PublishLog('StreakControlHUD_PC+++:{0}', self.KeyTipIdx)			
+			if self.KeyTipIdx < 0 then
+				self:SetData(self.m_OwnerPawn)
+				CS.GameEngine.Log.PublishLog('StreakControlHUD_PC self.KeyTipIdx:{0}', self.KeyTipIdx)	
+			end
+		else 
+			CS.GameEngine.Log.PublishLog('StreakControlHUD_PC ResetKeyTip:{0}', inType)	
+			self:ResetKeyTip()			
+		end
+	end)
+	--bug=126204582 【WWL27.1/CN21.1】【国服正式服】【PC包】【必现】MP-地面战争模式下舰队地图中部署界面船舰载具主、副驾驶的使用准星显示错误
+	util.hotfix_ex(CS.GameBase.VehicleBoatDirectionView, 'WillShow', function(self)
+		self:WillShow()
+		CS.GameEngine.Log.PublishLog('CS.GameEngine.VehicleBoatDirectionView willshow')	
+		if CS.GameEngine.GamePlay.UseNewHudForGameMode_PC() then 
+            self.transform.localPosition = CS.UnityEngine.Vector3(0,-220,0)
+        end
+	end)
+end
+--bug=126148277 【WWL27.0/CN21.0】【正式服】【异常上报】PhysicsVehicle_RescueDrone.DoExplode
+xlua.private_accessible(CS.GameEngine.PhysicsVehicle_RescueDrone)
+util.hotfix_ex(CS.GameEngine.PhysicsVehicle_RescueDrone,'PlayDomeEffect', function(self, assetId, arg, isSucc)
+	CS.GameEngine.Log.PublishLog('CS.GameEngine.PhysicsVehicle_RescueDrone PlayDomeEffect')		
+	local target = CS.GameEngine.GamePlay:GetPawn(self.cacheTargetID)
+	if target == nil or target.Cur3PMesh == nil or target.Cur3PMesh.transform == nil then 
+		return 
+	end
+	self:PlayDomeEffect(assetId, arg, isSucc)		
+end)
+-- ../CN21.0_WWL27.0/#44_0627 
+xlua.hotfix(CS.FrontEnd.DoubleRechargeDataStore, 'IsNeedPCBlock', function(self)
+    CS.GameEngine.Log.PublishLog("[mingkahuang] DoubleRechargeDataStore IsNeedPCBlock")
+    return false
+end)
+-- ../CN21.0_WWL27.0/#45_0626 
+util.hotfix_ex(CS.LiveOps.NewActvCombMainController, 'OnRefreshBtnLinkRoot', function(self)
+    CS.GameEngine.Log.PublishLog('[mingkahuang] NewActvCombMainController OnRefreshBtnLinkRoot')
+    if CS.GameDefine.IsFamilyWest then
+        CS.GameEngine.Log.PublishLog('[mingkahuang] NewActvCombMainController OnRefreshBtnLinkRoot west')
+        CS.GameUI.UICommonTools.SafeSetActive(self.m_View.BtnLinkRoot, false)
+        return
+    end
+    self:OnRefreshBtnLinkRoot()
+end)
+-- ../CN21.0_WWL27.0/#46_0626 
+if CS.GameDefine.IsPlayerWin then
+util.hotfix_ex(CS.Home.HomeMainUIController, 'WillShow', function(self)
+    self:WillShow()
+	if CS.PlayerPrefsManager.Instance:HasCurrentPlayerKey('BRAccuratePick') then
+		CS.GameEngine.Log.PublishLog("smartzhu has key")	
+	end
+	CS.GameEngine.Log.PublishLog("smartzhu revert")
+    CS.GameEngine.InputManager.Instance.SettingInfoMP.AccuratePick = CS.PlayerPrefsManager.Instance:GetCurrentPlayerBool('MPAccuratePick', false);
+    CS.GameEngine.InputManager.Instance.SettingInfoBr.AccuratePick = CS.PlayerPrefsManager.Instance:GetCurrentPlayerBool('BRAccuratePick', false);
+    CS.GameEngine.InputManager.Instance.SettingInfoPVE.AccuratePick = CS.PlayerPrefsManager.Instance:GetCurrentPlayerBool('PVEAccuratePick', false);
+    CS.GameEngine.InputManager.Instance.SettingInfoTD.AccuratePick = CS.PlayerPrefsManager.Instance:GetCurrentPlayerBool('TDAccuratePick', false);
+end)
+end
+-- ../CN21.0_WWL27.0/#47_0626 
+xlua.hotfix(CS.PVP.PVPScorePanelItem, 'SetDead', function(self,bDead,bLadder)
+    CS.GameUI.UICommonTools.SafeSetActive(self.widgetDeadBg, bDead)
+    local isWin = CS.GameEngine.GamePlay.IsWinPlayer
+    CS.GameUI.UICommonTools.SafeSetActive(self.DeadLabel, (isWin and bDead))
+    if (not isWin) and self.avatarPic then
+        local widgetHead = self.avatarPic:GetComponent(typeof(CS.UIWidget))
+        if widgetHead then
+            widgetHead.alpha = bDead and 0.5 or 1
+        end
+    end
+end)
+-- ../CN21.0_WWL27.0/#48_0626 
+xlua.private_accessible(CS.GameBase.BaseGame)
+util.hotfix_ex(CS.GameBase.GameUIScene,'OnVehicleSeatChange',function(self, msg)
+ 	self:OnVehicleSeatChange(msg)
+    local controller = self:GetWindowController(typeof(CS.GameBase.JoySticksPanelController), 0);
+    if (controller ~= nil) then 
+    	local localPawn = CS.GameEngine.GamePlay.LocalBrPawn;
+    	if (CS.GameCommon.LuaUtility.IsNullInCSharp(localPawn) == false) then 
+            if localPawn.IsSkiing then 
+    			local m_GameUseRayCastInteract = CS.GameEngine.GamePlay.Game.m_GameUseRayCastInteract;
+				CS.GameEngine.Log.GeneralError("ShowGetOffVehicleButtonController"..tostring(m_GameUseRayCastInteract))
+				CS.GameEngine.GamePlay.Game.m_GameUseRayCastInteract = false
+                controller:ShowGetOffVehicleButtonController(true);
+				CS.GameEngine.GamePlay.Game.m_GameUseRayCastInteract = m_GameUseRayCastInteract
+    		end    	    
+		end
+    end
+end)
+-- ../CN21.0_WWL27.0/#49_0626 
+-- 外网PC预投掷时长按“E“键，卡预投掷动作
+if CS.GameDefine.IsWin then
+	util.hotfix_ex(CS.BattleRoyale.BRQuickButtomView,'PCExecuteDrag', function(self)
+		if self:IsForbid() then
+			return false
+		end
+		self:PCExecuteDrag()
+	end)
+end
+-- ../CN21.0_WWL27.0/#50_0626 
+util.hotfix_ex(CS.Config.DownloadBeforeLoginHelper, 'StripAudioTask', function(fileList)
+	CS.Config.DownloadBeforeLoginHelper.StripAudioTask(fileList)
+	local file = nil
+	if CS.GameDefine.IsIOS then
+		file = CS.System.HalfStringUtil.StringToHalfString("Audio/GeneratedSoundBanks/iOS/dynamic/Player_reaper.bnk")
+		fileList:Add(file)
+		file = CS.System.HalfStringUtil.StringToHalfString("Audio/GeneratedSoundBanks/iOS/dynamic/1003779979.wem")
+		fileList:Add(file)
+	elseif CS.GameDefine.IsAndroid then
+		file = CS.System.HalfStringUtil.StringToHalfString("Audio/GeneratedSoundBanks/Android/dynamic/Player_reaper.bnk")
+		fileList:Add(file)
+		file = CS.System.HalfStringUtil.StringToHalfString("Audio/GeneratedSoundBanks/Android/dynamic/1003779979.wem")
+		fileList:Add(file)
+	else
+		file = CS.System.HalfStringUtil.StringToHalfString("Audio/GeneratedSoundBanks/Windows/dynamic/Player_reaper.bnk")
+		fileList:Add(file)
+		file = CS.System.HalfStringUtil.StringToHalfString("Audio/GeneratedSoundBanks/Windows/dynamic/1003779979.wem")
+		fileList:Add(file)
+	end
+end)
+-- ../CN21.0_WWL27.0/#51_0626 
+xlua.hotfix(CS.LiveOps.LiveOpsPictureController_CA, 'OnNotifyActvSubscribeSuccess', function(self,eventMsg)
+    self:UpdateView(self.m_TabData,self.m_ViewSize,self.m_UseOutSideBg)
+end)
+xlua.hotfix(CS.LiveOps.LiveOpsPictureController_CA, 'NotifyDataStoreUpdated', function(self,SourceDataStore,PropertyTag,ArrayIndex)
+    self:UpdateView(self.m_TabData,self.m_ViewSize,self.m_UseOutSideBg)
+end)
+-- ../CN21.0_WWL27.0/#52_0626 
+util.hotfix_ex(CS.GameSettings.SettingsEditWidget, 'Awake', function(self)
+    self:Awake()
+    if self.EdittingContainer ~= nil then
+        self.EdittingContainer.zeroAlphaRayCast = true
+    end
+end)
+util.hotfix_ex(CS.GameBase.JoyStickView, 'UpdateAlpha', function(self)
+    if self.mJoyStickButtonConfig == nil or self.mJoyStickButtonConfig.Alpha > 0 then
+        self:UpdateAlpha()
+        return
+    end
+    if self.mJoyStickConfigType == CS.GameEngine.EJoyStickConfig.GunViewButton or self.mJoyStickConfigType == CS.GameEngine.EJoyStickConfig.DriveVehicleButton or self.mJoyStickConfigType == CS.GameEngine.EJoyStickConfig.PassengerVehicleButton or self.mJoyStickConfigType == CS.GameEngine.EJoyStickConfig.PhysSkisButton or self.mJoyStickConfigType == CS.GameEngine.EJoyStickConfig.ShareWeaponBtn or self.mJoyStickConfigType == CS.GameEngine.EJoyStickConfig.QuickSwitchWeaponBtn then
+        self.mJoyStickButtonConfig.Alpha = 0.01
+    end
+    self:UpdateAlpha()
+end)
+util.hotfix_ex(CS.GameUI.UIWindow, 'RestrictConfig', function(self, conf)
+    self:RestrictConfig(conf)
+    if conf == nil then
+        return
+    end
+    if conf.Alpha == 0 then
+        conf.Alpha = 0.01
+    end
+end)
+util.hotfix_ex(CS.GameBase.SwitchFireModeView, 'Init', function(self)
+	local widget = self:GetComponent(typeof(CS.UIWidget))
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(widget) then
+		widget = self.gameObject:AddComponent(typeof(CS.UIWidget))
+	end
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(widget) == false then
+		widget.zeroAlphaRayCast = true;
+		CS.GameEngine.Log.PublishLog("[SwitchFireModeView] Init zeroAlphaRayCast")
+	end
+	self:Init()	
+end)
+util.hotfix_ex(CS.C4BombRemoteControlBtn, 'Start', function(self)
+	local widget = self:GetComponent(typeof(CS.UIWidget))
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(widget) then
+		widget = self.gameObject:AddComponent(typeof(CS.UIWidget))
+	end
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(widget) == false then
+		widget.zeroAlphaRayCast = true;
+		CS.GameEngine.Log.PublishLog("[C4BombRemoteControlBtn] Start zeroAlphaRayCast")
+	end
+	self:Start()	
+end)
+util.hotfix_ex(CS.GameBase.TurnOnWeaponPartView, 'Start', function(self)
+	local widget = self:GetComponent(typeof(CS.UIWidget))
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(widget) then
+		widget = self.gameObject:AddComponent(typeof(CS.UIWidget))
+	end
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(widget) == false then
+		widget.zeroAlphaRayCast = true;
+		CS.GameEngine.Log.PublishLog("[TurnOnWeaponPartView] Start zeroAlphaRayCast")
+	end
+	self:Start()	
+end)
+-- ../CN21.0_WWL27.0/#53_0627 
+CS.GameBase.Loading.LoadingFlowDevicePatchController.MC_HF_VERSION = 4
+-- ../CN21.0_WWL27.0/#55_0627 
+util.hotfix_ex(CS.GameUI.UIUtil, 'OnOpenLoadoutRoleImpl', function(self, id, obj, isSucc)
+	if false == isSucc then
+		return
+	end
+	self:OnOpenLoadoutRoleImpl(id, obj, isSucc)
+end)
+-- ../CN21.0_WWL27.0/#56_0627 
+util.hotfix_ex(CS.LimitTicketsShop.LimitTicketsShopMainUIController, 'SetMainTabListController', function(self, resetScroll)
+    self:SetMainTabListController(resetScroll)
+    if self.mView ~= nil and self.mView.TabSV ~= nil then
+        self.mView.TabSV:ResetPosition()
+    end
+end)
+-- ../CN21.0_WWL27.0/#59_0628 
+local NeedSendLuckyBoxReq = false;
+util.hotfix_ex(CS.GameUI.Home.HomeMainController,'DelayToSendLuckyBoxInfoToStore',function(self)
+	local shopDS = CS.GameEngine.DataStoreManager.Instance.ShopDataStore;
+	local _luckDrawList = shopDS:GetAllLuckyDrawItems();
+	local _luckBoardList = shopDS:GetAllLuckyBoardItems();
+	local _strongBoxList = shopDS:GetAllStrongBoxItems();
+	if _luckDrawList.Count == 0 and _luckBoardList.Count == 0 and _strongBoxList.Count == 0 then
+		CS.GameEngine.Log.PublishLog('[Hotfix] DelayToSendLuckyBoxInfoToStore NeedSendLuckyBoxReq');
+		NeedSendLuckyBoxReq = true;
+	else
+		self:DelayToSendLuckyBoxInfoToStore();
+		NeedSendLuckyBoxReq = false;
+	end
+end)
+util.hotfix_ex(CS.GameUI.Home.HomeMainController,'CreateShopScrollPlay',function(self, msg)
+	self:CreateShopScrollPlay(msg);
+	if NeedSendLuckyBoxReq == true then
+		CS.GameEngine.Log.PublishLog('[Hotfix] CreateShopScrollPlay NeedSendLuckyBoxReq');
+		self:DelayToSendLuckyBoxInfoToStore();
+	end
+end)
+-- ../CN21.0_WWL27.0/#60_0628 
+util.hotfix_ex(CS.GameUI.Room.SpvpPlaylistItemCell, 'SetPlaylistItemView', function(self, data, outterPanel)
+	self:SetPlaylistItemView(data, outterPanel)
+	if data == nil or self.BasicInfo == nil or CS.System.Convert.ToUInt32(self.BasicInfo.CellType) ~= 0 then
+		return
+	end
+	local mt = CS.System.Convert.ToUInt32(data.matchType)
+	if mt ~= 2 or data.isNewMapPlaylist == false then
+		return
+	end
+	if self.NewMapBuff_Open == nil or self.NewMapBuff_Lock == nil then
+		return
+	end
+	local v = data.newMapProtectCnt - data.newMapProtectCntUsed
+	if v < 0 then
+		v = 0
+	end
+	local bd = CS.LanguageUtility.Translate('LOC_SPVPPLAYLISTCONF_RANK_PROTECTION') .. ' ' .. tostring(v) .. '/' .. tostring(data.newMapProtectCnt)
+	CS.GameUI.UICommonTools.SafeSetLabel(self.NewMapBuff_Open.ValidDesc, bd)
+	CS.GameUI.UICommonTools.SafeSetLabel(self.NewMapBuff_Open.InvalidDesc, bd)
+	CS.GameUI.UICommonTools.SafeSetLabel(self.NewMapBuff_Lock.ValidDesc, bd)
+	CS.GameUI.UICommonTools.SafeSetLabel(self.NewMapBuff_Lock.InvalidDesc, bd)
+end)
+-- ../CN21.0_WWL27.0/#61_0628 
+util.hotfix_ex(CS.GameBase.GameUIScene, 'SetRayCastInfoHud', function(self, active, tips)
+	CS.GameEngine.Log.PublishLog("[SetRayCastInfoHud] {0}", CS.GameEngine.GamePlay.UseRayCastInteract)
+	if CS.GameEngine.GamePlay.UseRayCastInteract == false then
+		return
+	end
+	self:SetRayCastInfoHud(active, tips)	
+end)
+-- ../CN21.0_WWL27.0/#62_0628 
+--红SirenNS(100305020)使用弯刀 进br后，切武器 武器切成枪，手部会变形
+util.hotfix_ex(CS.GameEngine.WeaponAttachment,'SetAnimatorControler', function(self,assetID)
+	self.m_RuntimeReplaceSpecialAnimatorController3P = nil
+	self:SetAnimatorControler(assetID)
+end)
+-- ../CN21.0_WWL27.0/#63_0628 
+--krisstian 
+util.hotfix_ex(CS.CollectBook.CollectBookThemeHotUIController, 'PlayerVideo', function(self)
+	CS.GameEngine.Log.PublishLog("[CollectBookThemeHotUIController] [PlayerVideo]")
+	if (self.mView.MediaTexture ~= nil)
+	then
+		local ds = CS.GameEngine.DataStoreManager.Instance.CollectBookDataStore;
+		local themeData = ds:GetThemeData(self.m_CurShowThemeID);
+		if (themeData ~= nil and themeData.Config ~= nil and themeData.Config.ThemeSpecialAwardVidioPath ~= "")
+		then
+			if (not CS.GameUI.UIUtil.Instance:IsVideoFileExist(themeData.Config.ThemeSpecialAwardVidioPath))
+			then
+				self:ShowCommonTips(CS.LanguageUtility.Translate("LOC_CollectBook_Theme_Hot_Video_Not_Download"));
+			else
+				return self:PlayerVideo()
+			end
+		end
+	end
+	return false
+end)
+util.hotfix_ex(CS.CollectBook.CollectBookHelper, 'CheckThemeFristOpen', function(themeID)
+	return not CS.CollectBook.CollectBookHelper.CheckThemeFristOpen(themeID)
+end )
+util.hotfix_ex(CS.CollectBook.CollectBookHelper, 'CheckThemeFristUnlock', function(themeID)
+	return not CS.CollectBook.CollectBookHelper.CheckThemeFristUnlock(themeID)
+end )
+util.hotfix_ex(CS.CollectBook.CollectBookThemeHotUIController, 'CheckShowOpenPop', function(self,data)
+	if data ~= nil and data.Config ~= nil and data.Config.ThemeSpecialAward ~= 0 then
+		local temp = data.Config.ThemeSpecialAward
+		data.Config.ThemeSpecialAward = 0
+		self:CheckShowOpenPop(data)
+		data.Config.ThemeSpecialAward = temp
+	else
+		self:CheckShowOpenPop(data)
+	end
+end )
+-- ../CN21.0_WWL27.0/#64_0628 
+xlua.hotfix(CS.GameBase.AudioLogic.PawnSoundEmitter, 'SetPawnInDeadStillState', function(self, bValue)
+    self.m_bInDeadStillState = bValue
+    if self.m_bInDeadStillState == false then
+        self:SetPawnStepSoundRTPC(1.0)
+    end
+    if CS.GameEngine.GamePlay.GameInfo ~= nil and CS.GameEngine.GamePlay.IsLocalPlayer(self.PawnPlayerID) then
+        CS.GameEngine.GamePlay.GameInfo.m_bInDeadStillState = bValue
+    end
+end)
+-- ../CN21.0_WWL27.0/#65_0628 
+local IsNewMapPlaylist = function(playlistId)
+	return playlistId == 400012 or playlistId == 400013 or playlistId == 400014
+end
+local DeselectPlaylist = function(dl, isNewMap)
+	local ret = false
+	for i=0,dl.Count-1 do
+		if isNewMap then
+			if dl[i].isNewMapPlaylist then
+				if dl[i].bSelect then
+					dl[i].bSelect = false
+					ret = true
+				end
+			end	
+		else
+			if not dl[i].isNewMapPlaylist then
+				if dl[i].bSelect then
+					dl[i].bSelect = false
+					ret = true
+				end
+			end	
+		end
+	end
+	return ret
+end
+util.hotfix_ex(CS.GameUI.Room.RoomSpvpPlaylistSelectorMainController_New, 'OnPlaylistItemClickInner', function(self, playlistId, subItemId)
+	-- when select new map playlist, de-select other normal playlists
+	-- when select normal playlist, de-select new map playlists
+	local cdl = CS.GameUI.Room.SpvpPlaylistDataAssist.Instance.DataList
+	local clickTarget = nil
+	if cdl ~= nil then
+		for i=0,cdl.Count-1 do
+			if cdl[i].playlistId == playlistId then
+				clickTarget = cdl[i]
+			end
+		end
+	end
+	local tip = false
+	if clickTarget ~= nil and clickTarget.bSelect == false then
+		if self.m_PlaylistGroup.matchType == 2 then
+			if clickTarget.isNewMapPlaylist then
+				tip = DeselectPlaylist(cdl, false)
+			else
+				tip = DeselectPlaylist(cdl, true)
+			end
+		end	
+	end
+	if CS.GameDefine.IsFamilyCN and tip then
+		local uiScene = CS.GameUI.GUIManager.Instance.UISceneObject
+		if uiScene ~= nil then
+			uiScene:ShowCommonTips('有排位分保护的模式不支持多选')
+		end
+	end
+	self:OnPlaylistItemClickInner(playlistId, subItemId)
+end)
+-- ../CN21.0_WWL27.0/#66_0628 
+util.hotfix_ex(CS.GameEngine.WeaponPartUtil, 'MuzzlePointIsOnRai', function(weaponName, weaponID)
+    if weaponID == 10612021 then
+        return false
+    end
+    return CS.GameEngine.WeaponPartUtil.MuzzlePointIsOnRai(weaponName, weaponID)
+end)
+-- ../CN21.0_WWL27.0/#67_0628 
+util.hotfix_ex(CS.GameBase.NZWheeledTank_Recon, 'InitVehicle', function(self, actorID, vehicleType)
+	self:InitVehicle(actorID, vehicleType)
+	self.weaponInfos[0].weaponId = 1
+end)
+-- ../CN21.0_WWL27.0/#68_0628 
+xlua.hotfix(CS.GameUI.Share.ShareImageUtils,'IsEnableSaveButton',function()
+    return true;
+end)
+-- ../CN21.0_WWL27.0/#71_0701 
+util.hotfix_ex(CS.Recreation.Bar.AzurBarTalkWithNPCHUD, 'OnExitBtnClick', function(self)
+	--CS.GameEngine.Log.PublishLog("[OnExitBtnClick]")
+	if self.m_CurNpcLocalData == nil then
+		self:GetDialogue()
+	end
+	if self.m_CurNpcLocalData == nil then	
+		local npcMgr = CS.GameEngine.GamePlay.Game:GetGameComponent(typeof(CS.Recreation.Bar.BarNpcMgr));
+		if npcMgr ~= nil then	
+			local pawnComp = self:GetLocalPawnComponent()
+			if pawnComp ~= nil then			
+				local npcId = pawnComp:GetCurNpcID()
+				npcMgr:ResetNpcAni(npcId)
+			end
+			npcMgr.NpcCamera:DoExitLerp(0.5, function()  
+				--CS.GameEngine.Log.PublishLog("[OnExitBtnClick] OnExitChat")
+				self:OnExitChat()
+			end)
+		end
+		return
+	end
+	self:OnExitBtnClick()	
+end)
+util.hotfix_ex(CS.AzurBarNPCBubblesHUD, 'SetDialogueOnPlayerAction', function(self)	
+	--CS.GameEngine.Log.PublishLog("[AzurBarNPCBubblesHUD](SetDialogueOnPlayerAction)")
+	if CS.GameCommon.LuaUtility.IsNullInCSharp(self.m_Npc) then
+        self.m_Npc = self:GetNpcObject(self.m_NpcID);
+        if CS.GameCommon.LuaUtility.IsNullInCSharp(self.m_Npc) then
+            return false
+        end
+    end	
+	return self:SetDialogueOnPlayerAction()
+end)
+-- ../CN21.0_WWL27.0/#72_0701 
+util.hotfix_ex(CS.BattlePass.BPPlusShopDataStore, 'SetTotalDatas', function(self, store_conf)
+    if store_conf then
+        self:ClearData()
+        CS.GameEngine.Log.PublishLog('[mingkahuang] BPPlusShopDataStore SetTotalDatas store_conf.count:{0}', store_conf.Count)
+        for i=0, store_conf.Count-1 do
+             if store_conf[i] then
+                 local newData = CS.BattlePass.BPPlusShopMainItemData(store_conf[i])
+                 if newData then
+                     self.TotalDatas:Add(newData)
+                 end
+             end
+        end
+        CS.GameEngine.Log.PublishLog('[mingkahuang] BPPlusShopDataStore SetTotalDatas TotalDatas.Count:{0}', self.TotalDatas.Count)
+        self:CheckToSetHasGot()
+        self:ScreeningTotalDatas()
+    else
+        self:SetTotalDatas(store_conf)
+    end
+end)
+-- ../CN21.0_WWL27.0/#75_0703 
+--felix 
+util.hotfix_ex(CS.GameBase.TacticalDomReviveController, 'OnDomBRGroundWarRevive', function(self,msg)
+		   -- CS.UnityEngine.Debug.Log("OnDomBRGroundWarRevive call");
+   if msg.ParamLength > 0 then
+      local v = msg.Params[0];
+	    if v ~= nil and type(v) ~= "number" then
+            if v.Ret ~= 0 then
+		       --CS.UnityEngine.Debug.Log("OnDomBRGroundWarRevive igore");
+		    return;
+		 end
+	    else
+		   -- CS.UnityEngine.Debug.Log("OnDomBRGroundWarRevive number");
+        end
+   end
+		    --CS.UnityEngine.Debug.Log("OnDomBRGroundWarRevive invoke");
+   self:OnDomBRGroundWarRevive(msg);
+end )
+-- ../CN21.0_WWL27.0/#76_0703 
+if CS.GameDefine.IsPlayerWin then
+	xlua.private_accessible(CS.GameBase.CarePackageOpenHUD)
+	--bug=126217428 【WWL27.1/CN21.1】【国服预发布】【PC包】【必现】MP-模式中使用连杀道具盾牌炮塔退出之后会导致连杀得分显示条UI丢失
+	util.hotfix_ex(CS.GameBase.CarePackageOpenHUD,'OnOpenButtonClick', function(self)
+		CS.GameEngine.Log.PublishLog('CarePackageOpenHUD OnOpenButtonClick')	
+		self:OnOpenButtonClick()
+		local luaCallBack = function()
+            return self:PCExecutemCarePackage()
+        end
+		if self.IsOpening then 
+			CS.GameEngine.InputManager.Instance:UnRegisterPCInputCallBack(CS.GameEngine.InputKeyEvent.Interaction, luaCallBack, CS.GameEngine.PCKeyCodeResponseType.ButtonClick, 40)
+		end
+	end)
+	util.hotfix_ex(CS.GameBase.CarePackageOpenHUD,'OnResetButtonClick', function(self)
+		CS.GameEngine.Log.PublishLog('CarePackageOpenHUD OnResetButtonClick')	
+		self:OnResetButtonClick()
+		local luaCallBack = function()
+            return self:PCExecutemCarePackage()
+        end
+		if self.IsOpening then 
+			CS.GameEngine.InputManager.Instance:UnRegisterPCInputCallBack(CS.GameEngine.InputKeyEvent.Interaction, luaCallBack, CS.GameEngine.PCKeyCodeResponseType.ButtonClick, 40)
+		end
+	end)
+	util.hotfix_ex(CS.GameBase.CarePackageOpenHUD,'SetData', function(self,actorID, playerID, camp, requestDelay, resetTimes, setTrapPlayerId)
+		CS.GameEngine.Log.PublishLog('CarePackageOpenHUD SetData')	
+		self:SetData(actorID, playerID, camp, requestDelay, resetTimes, setTrapPlayerId)
+		local luaCallBack = function()
+            return self:PCExecutemCarePackage()
+        end
+		CS.GameEngine.InputManager.Instance:RegisterPCInputCallBack(CS.GameEngine.InputKeyEvent.Interaction, luaCallBack, CS.GameEngine.PCKeyCodeResponseType.ButtonClick, 40)
+	end)
+	xlua.hotfix(CS.GameBase.CarePackageOpenHUD,'RegisterPCInputEventHandler', function(self)
+		CS.GameEngine.Log.PublishLog('CarePackageOpenHUD RegisterPCInputEventHandler')			
+	end)
+	util.hotfix_ex(CS.GameBase.CarePackageOpenHUD,'SetupResetButton', function(self)
+		CS.GameEngine.Log.PublishLog('CarePackageOpenHUD SetupResetButton')	
+		self:SetupResetButton()
+		local luaCallBack = function()
+            return self:PCExecuteResetButton()
+        end
+		if self.mCarePackageClass ~= nil and CS.GameUI.UICommonTools.SafeIsActive(self.mCarePackageClass.ResetButton) then 
+			CS.GameEngine.InputManager.Instance:RegisterPCInputCallBack(CS.GameEngine.InputKeyEvent.BRInteraction_K, luaCallBack, CS.GameEngine.PCKeyCodeResponseType.ButtonClick, 40)
+		else 
+			CS.GameEngine.InputManager.Instance:UnRegisterPCInputCallBack(CS.GameEngine.InputKeyEvent.BRInteraction_K, luaCallBack, CS.GameEngine.PCKeyCodeResponseType.ButtonClick, 40)
+		end
+	end)
+	util.hotfix_ex(CS.GameBase.AC130InfoHUD,'Start', function(self)
+		CS.GameEngine.Log.PublishLog('AC130InfoHUD Start')		
+		CS.GameUI.UICommonTools.SafeSetSpriteFillAmount(self.BloodSprite,1.0)
+		CS.GameUI.UICommonTools.SafeSetSpriteFillAmount(self.TimeSprite,1.0)
+		self:Start()
+	end)	
+	util.hotfix_ex(CS.PVP.InteractiveInGameHUD,'ResetPriority', function(self)
+		--CS.GameEngine.Log.PublishLog('InteractiveInGameHUD ResetPriority')		
+		local tType = self:ResetPriority()
+		local oldType = CS.PVP.InteractiveInGameManager.Instance:GetCurrentShowType()
+		if  self.mBombGame ~= nil and self.mBombGame.Root ~= nil then 
+			CS.GameEngine.Log.PublishLog('InteractiveInGameHUD ResetPriority:{0}', oldType)
+			if oldType == CS.PVP.InteractiveType.BombGame then 
+				CS.GameUI.UICommonTools.SafeSetActive(self.mBombGame.Root, true)
+			else 
+				CS.GameUI.UICommonTools.SafeSetActive(self.mBombGame.Root, false)
+			end
+		end
+		return tType
+	end)	
+end
+-- ../CN21.0_WWL27.0/#77_0703 
+CS.GameEngine.ParticleShadingRate.s_EnableVRS = false
+-- ../CN21.0_WWL27.0/#78_0702 
+util.hotfix_ex(CS.CodmShop.ThemeDrawController, 'AniSwitchToStop', function(self)
+    self.m_curSpeed = 0;
+    self:AniSwitchToStop();
+end)
+-- ../CN21.0_WWL27.0/#79_0702 
+util.hotfix_ex(CS.PVS.ViewCellRoot, 'Awake', function(self)
+    self:Awake()
+    if self.pvsData ~= nil then
+        self.pvsData:ResetCellVisible()
+        CS.GameEngine.Log.PublishLog("[xLua] {0} all cells visible", self.gameObject.scene.name)
+    end
+end)
+-- ../CN21.0_WWL27.0/#82_0703 
+util.hotfix_ex(CS.GameUI.Room.RoomSpvpMatchController, 'Tutorial_OnBrLadderBtnClick', function(self)
+	CS.Tutorial.FtueTool.SignClose()
+    self:Tutorial_OnBrLadderBtnClick()
+end)
